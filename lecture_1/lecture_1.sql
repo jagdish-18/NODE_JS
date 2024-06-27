@@ -9,7 +9,6 @@
 --> create database <databasename>;
 
 => use perticular database command;
---> use <databasename>;
 
 => show perticular database tables;
 --> show tables;
