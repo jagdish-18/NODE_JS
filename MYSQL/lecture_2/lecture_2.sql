@@ -2,7 +2,7 @@
 --\connect root@localhost:3306
 --create database dbname;
 --use dbname;
---show databases;
+-- show databases;
 
 
 --show tables
