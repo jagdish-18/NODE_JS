@@ -130,7 +130,5 @@ update Product_master set CostPrice = 950 where Description = "Pull Overs";
 update Product_master set Description = "Trousers" where CostPrice = 950;
 
 d --Change the City of the selesman of pune.
-update Selsman_master set  CITY = "Pune" where SALESMANENAME = "Aman";
-update Selsman_master set  CITY = "Pune" where SALESMANENAME = "Omkar";
-update Selsman_master set  CITY = "Pune" where SALESMANENAME = "Raj";
-update Selsman_master set  CITY = "Pune" where SALESMANENAME = "Ashis";
+update Selsman_master set  CITY = "pune" where CITY = "mumbai";
+

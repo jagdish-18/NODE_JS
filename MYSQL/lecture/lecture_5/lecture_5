@@ -1,0 +1,16 @@
+
+-- ORDER BY
+--ASC
+--DESC
+
+--ASC
+select * from students ORDER BY city ASC;
+select * from students ORDER BY firstname ASC;
+select * from students ORDER BY age ASC;
+select * from students ORDER BY maths ASC;
+
+--DESC
+select * from students ORDER BY city DESC;
+select * from students ORDER BY lastname DESC;
+select * from students ORDER BY age DESC;
+select * from students ORDER BY maths DESC;
