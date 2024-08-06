@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 599.99,
+      "category": "Electronics",
+      "description": "A high-performance smartphone with advanced features."
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1299.99,
+      "category": "Electronics",
+      "description": "A sleek and powerful laptop for work and entertainment."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149.99,
+      "category": "Electronics",
+      "description": "Wireless headphones with noise-cancellation technology."
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 79.99,
+      "category": "Accessories",
+      "description": "A durable and stylish backpack for everyday use."
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 299.99,
+      "category": "Electronics",
+      "description": "A smartwatch with fitness tracking and notifications."
+    },
+    {
+      "id": 6,
+      "name": "Tablet",
+      "price": 449.99,
+      "category": "Electronics",
+      "description": "A lightweight tablet for browsing and multimedia."
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 499.99,
+      "category": "Electronics",
+      "description": "A gaming console with high-definition graphics and online play."
+    },
+    {
+      "id": 8,
+      "name": "Wireless Router",
+      "price": 99.99,
+      "category": "Electronics",
+      "description": "A high-speed wireless router for home or office use."
+    },
+    {
+      "id": 9,
+      "name": "Camera",
+      "price": 699.99,
+      "category": "Electronics",
+      "description": "A professional-grade camera for photography enthusiasts."
+    },
+    {
+      "id": 10,
+      "name": "External Hard Drive",
+      "price": 129.99,
+      "category": "Electronics",
+      "description": "An external hard drive for secure data storage."
+    },
+    {
+      "id": 11,
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "category": "Electronics",
+      "description": "A portable Bluetooth speaker with clear sound."
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "price": 149.99,
+      "category": "Electronics",
+      "description": "A fitness tracker with heart rate monitoring and GPS."
+    },
+    {
+      "id": 13,
+      "name": "Coffee Maker",
+      "price": 59.99,
+      "category": "Appliances",
+      "description": "A programmable coffee maker for brewing delicious coffee."
+    },
+    {
+      "id": 14,
+      "name": "Vacuum Cleaner",
+      "price": 199.99,
+      "category": "Appliances",
+      "description": "A powerful vacuum cleaner for cleaning carpets and floors."
+    },
+    {
+      "id": 15,
+      "name": "Air Purifier",
+      "price": 299.99,
+      "category": "Appliances",
+      "description": "An air purifier for removing allergens and pollutants from the air."
+    },
+    {
+      "id": 16,
+      "name": "Microwave Oven",
+      "price": 129.99,
+      "category": "Appliances",
+      "description": "A compact microwave oven for quick and easy cooking."
+    },
+    {
+      "id": 17,
+      "name": "Blender",
+      "price": 49.99,
+      "category": "Appliances",
+      "description": "A versatile blender for making smoothies and soups."
+    },
+    {
+      "id": 18,
+      "name": "Toaster",
+      "price": 39.99,
+      "category": "Appliances",
+      "description": "A classic toaster for perfectly toasted bread."
+    },
+    {
+      "id": 19,
+      "name": "Electric Kettle",
+      "price": 29.99,
+      "category": "Appliances",
+      "description": "An electric kettle for boiling water quickly."
+    },
+    {
+      "id": 20,
+      "name": "Rice Cooker",
+      "price": 49.99,
+      "category": "Appliances",
+      "description": "A rice cooker for preparing fluffy rice effortlessly."
+    },
+    {
+      "id": 21,
+      "name": "Desk Lamp",
+      "price": 19.99,
+      "category": "Home Decor",
+      "description": "A stylish desk lamp for brightening up your workspace."
+    },
+    {
+      "id": 22,
+      "name": "Throw Blanket",
+      "price": 29.99,
+      "category": "Home Decor",
+      "description": "A cozy throw blanket for chilly evenings."
+    },
+    {
+      "id": 23,
+      "name": "Wall Clock",
+      "price": 24.99,
+      "category": "Home Decor",
+      "description": "A decorative wall clock for keeping track of time."
+    },
+    {
+      "id": 24,
+      "name": "Cushion Cover",
+      "price": 14.99,
+      "category": "Home Decor",
+      "description": "A cushion cover to add a pop of color to your sofa."
+    },
+    {
+      "id": 25,
+      "name": "Photo Frame",
+      "price": 9.99,
+      "category": "Home Decor",
+      "description": "A classic photo frame for displaying your favorite memories."
+    },
+    {
+      "id": 26,
+      "name": "Scented Candle",
+      "price": 12.99,
+      "category": "Home Decor",
+      "description": "A scented candle to create a relaxing ambiance."
+    },
+    {
+      "id": 27,
+      "name": "Plant Pot",
+      "price": 19.99,
+      "category": "Home Decor",
+      "description": "A stylish plant pot for indoor plants."
+    },
+    {
+      "id": 28,
+      "name": "Throw Pillow",
+      "price": 16.99,
+      "category": "Home Decor",
+      "description": "A decorative throw pillow for your living room."
+    },
+    {
+      "id": 29,
+      "name": "Oil Diffuser",
+      "price": 34.99,
+      "category": "Home Decor",
+      "description": "An oil diffuser for spreading essential oils throughout your home."
+    },
+    {
+      "id": 30,
+      "name": "Wall Art",
+      "price": 39.99,
+      "category": "Home Decor",
+      "description": "A piece of wall art to add personality to your walls."
+    }
+  ]
+  
